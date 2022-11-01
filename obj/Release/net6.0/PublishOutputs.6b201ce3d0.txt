@@ -1,0 +1,7 @@
+C:\git\bin\Release\net6.0\publish\git.exe
+C:\git\bin\Release\net6.0\publish\appsettings.Development.json
+C:\git\bin\Release\net6.0\publish\appsettings.json
+C:\git\bin\Release\net6.0\publish\git.dll
+C:\git\bin\Release\net6.0\publish\git.deps.json
+C:\git\bin\Release\net6.0\publish\git.runtimeconfig.json
+C:\git\bin\Release\net6.0\publish\git.pdb

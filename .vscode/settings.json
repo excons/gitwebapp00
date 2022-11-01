@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/f64982f8-1e55-4051-9bfc-30fbd4e67576/AppServices/subscriptions/f64982f8-1e55-4051-9bfc-30fbd4e67576/resourceGroups/KYB/providers/Microsoft.Web/sites/gitwebapp0"
+}
